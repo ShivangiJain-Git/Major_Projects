@@ -40,7 +40,7 @@
 	
 - ### Objective:
 
-      We want to see if we can dive deep into this data to find some valuable insights.
+    We want to see if we can dive deep into this data to find some valuable insights.
 	  
 - ### Steps and tasks:
 
@@ -48,28 +48,28 @@
 	2. Read the data as a data frame 
 	3. Perform basic EDA which should include the following and print out your insights at every step :
 		
-			a. Shape of the data.
+		a. Shape of the data.
 				
-			b. Data type of each attribute. 
+		b. Data type of each attribute. 
 			
-			c. Checking the presence of missing values.
+		c. Checking the presence of missing values.
 				
-			d. 5 point summary of numerical attributes.
+		d. 5 point summary of numerical attributes.
 				
-			e. Distribution of ‘bmi’, ‘age’ and ‘charges’ columns.
+		e. Distribution of ‘bmi’, ‘age’ and ‘charges’ columns.
 				
-			f. Measure of skewness of ‘bmi’, ‘age’ and ‘charges’ columns. 
+		f. Measure of skewness of ‘bmi’, ‘age’ and ‘charges’ columns. 
 				
-			g. Checking the presence of outliers in ‘bmi’, ‘age’ and ‘charges columns.
+		g. Checking the presence of outliers in ‘bmi’, ‘age’ and ‘charges columns.
 				
-			i. Pair plot that includes all the columns of the data frame. 
+		i. Pair plot that includes all the columns of the data frame. 
 				
 	4. Answer the following questions with statistical evidence : 
 		
-			a. Do charges of people who smoke differ significantly from the people who don't? 
+		a. Do charges of people who smoke differ significantly from the people who don't? 
 				
-			b. Does bmi of males differ significantly from that of females?
+		b. Does bmi of males differ significantly from that of females?
 				
-			c. Is the proportion of smokers significantly different in different genders?
+		c. Is the proportion of smokers significantly different in different genders?
 				
-			d. Is the distribution of bmi across women with no children, one child and two children, the same? 
+		d. Is the distribution of bmi across women with no children, one child and two children, the same? 
