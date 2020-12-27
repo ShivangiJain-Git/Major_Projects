@@ -1,14 +1,13 @@
 # Project : Applied Statistics
 
 ## Content 
-
-	- Data Description	
-	- Domain
-	- Context
-	- Attribute Information
-	- Learning Outcomes
-	- Objective
-	- Steps and tasks
+ - Data Description	
+ - Domain
+ - Context
+ - Attribute Information
+ - Learning Outcomes
+ - Objective
+ - Steps and tasks
 	
 - ### Data Description: 	
 	The data at hand contains medical costs of people characterized by certain attributes.
