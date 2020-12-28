@@ -13,10 +13,8 @@
 	
 - ### Data Description: 	
 
-	The data contains features extracted from the silhouette of vehicles in different angles. Four "Corgie" model vehicles were used for the experiment: a double
-    decker bus, Cheverolet van, Saab 9000 and an Opel Manta 400 cars. This particular combination of vehicles was chosen with the expectation that the bus, van 
-	and either one of the cars would be readily distinguishable, but it would be more difficult to distinguish between the cars.
-
+	The actual concrete compressive strength (MPa) for a given mixture under a specific age (days) was determined from laboratory. Data is in raw form (not
+    scaled). The data has 8 quantitative input variables, and 1 quantitative output variable, and 1030 instances (observations).
 	
 - ### Domain:
 
